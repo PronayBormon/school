@@ -1,0 +1,53 @@
+@media (max-width: 768px){
+    .con .icon {
+        display: none;
+    }  
+    .social {
+        display: none;
+    }
+    .about_content h1 {
+        font-size: 28px;
+    }
+    .service .text h2 {
+        font-size: 25px;
+    }
+    .service .text h2 {
+        font-size: 25px;
+    }
+    .navbar>.container-xl {
+        background-color: rgb(174 209 215 / 93%);
+    }
+}
+
+@media (max-width: 576px){
+    .con .text {
+        display: none;
+    }
+    .btn-view {
+        margin-top: 10px;
+    }
+    .content {
+        margin-top: 15px;
+    }
+    .newslatter_part h1 {
+        font-size: 30px;
+    }
+    .f_links span {
+        margin-top: 20px;
+    }
+    .title h1 {
+        font-size: 25px;
+    }
+    .courses .text h1 {
+        font-size: 30px;
+    }
+}
+@media (max-width: 320px){
+    .courses .text h1 {
+        font-size: 25px;
+    }
+    .pro-navbar-light .btn-custom {
+    
+        width: 180px;
+    }
+}
